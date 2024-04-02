@@ -1,0 +1,13 @@
+.container_titulo{
+    position: absolute;
+    top: 10px;
+    margin: 0 auto;
+    width: 80vw;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #000;
+    background-color: #898484;
+    box-shadow: 4px 4px 4px #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
